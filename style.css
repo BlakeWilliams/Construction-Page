@@ -72,7 +72,9 @@ body {
     /* background: #eb6533; */
     height: 180px;
     padding: 10px;
-    -webkit-box-shadow: 0 0px 20px #888;
+    -webkit-box-shadow: 0 0px 5px #888;
+    -moz-box-shadow: 0 0px 5px #888;
+    box-shadow: 0 0px 5px #888;
 }
 #content h2 {
     color: #fff;
